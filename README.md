@@ -1,5 +1,26 @@
-# Galaxy-Computer-Accessories-Hub
-An Inventory Management System Using Python’s GUI,Tkinter
-It was my semester project for the course of Object-Oriented Programming 
-where I have implemented the important concepts of OOP like Inheritance,polymorphism,encapsulation and so on
-Though it needs more improvement so feedbacks are welcome.
+# Galaxy Computer Accessories Hub 🖥️
+
+## 📜 Description
+A project to manage and showcase a variety of computer accessories.  
+Features include product listings, inventory management, and basic user interaction.
+
+## 🛠️ Technologies Used
+- Python
+- Library used for GUI: Tkinter
+
+## 🚀 Features
+- Add, update, and delete computer accessories
+- Inventory tracking
+- User-friendly interface (console or web)
+
+## 🔥 How to Run
+- Clone the repository.
+- Install dependencies if any.
+- Run the backend using `python app.py` (or appropriate file).
+
+## 🎯 Future Enhancements
+- Add search and filter functionality
+- Add authentication system
+- Deploy live version
+
+---
